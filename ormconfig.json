@@ -1,10 +1,10 @@
 {
-    "type": "mysql",
-    "host": "localhost",
-    "port": 3306,
-    "username": "root",
+    "type": "",
+    "host": "",
+    "port": ,
+    "username": "",
     "password": "",
-    "database": "auth",
+    "database": "",
     "entities": [
        "src/app/models/*.ts"
     ],
