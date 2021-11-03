@@ -1,6 +1,5 @@
 # authjwt
 A api for authenticate using jwt, typescript and typeorm.
-Credits to Mateus Silva's youtube channel.
 
 ## Requests to api examples:
 ### POST /users
@@ -30,7 +29,7 @@ $ curl http://localhost:3000/auth
 ### GET /users
 This is request for get id from user, is protected route for middleware of authentication
 ```bash
-$ curl http://localhost:8080/users
+$ curl http://localhost:3000/users
 ```
 ```js
 {
